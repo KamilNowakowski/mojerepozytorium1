@@ -1,3 +1,2 @@
 # mojerepozytorium1
-Moje pierwsze repozytorium GIT
-assad
+Moje pierwsze repo2321zytorium GIT
